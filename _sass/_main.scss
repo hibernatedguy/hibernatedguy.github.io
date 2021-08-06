@@ -2,7 +2,6 @@
 :after,
 :before {
 	box-sizing: border-box;
-	background-color: inherit;
 	color: inherit;
 	margin: 0;
 	padding: 0;
@@ -525,7 +524,7 @@ $link-color: var(--link-color);
 .timeline {
   position: center;
   width: 650px;
-  margin: -6em auto;
+  margin: 1em auto;
   padding: 1px;
   list-style-type: none;
   @media(max-width: 860px) {

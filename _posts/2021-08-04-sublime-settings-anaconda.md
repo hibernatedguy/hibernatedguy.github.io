@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sublime setup for python/django development.
+title: Sublime setup for python/django development
 description: Setup sublime for python/django development.
 summary: Setup sublime for python/django development.
 tags: python

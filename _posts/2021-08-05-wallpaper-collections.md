@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wallpaper collections.
+title: Wallpaper collections
 description: Wallpaper collections.
 summary: Wallpaper collections.
 tags: wallpapers

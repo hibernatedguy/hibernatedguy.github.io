@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Near arabian sea.
+title: Near arabian sea
 description: arabian sea.
 summary: arabian sea.
 tags: travel

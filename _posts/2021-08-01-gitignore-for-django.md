@@ -7,7 +7,7 @@ tags: python django
 minute: 2
 ---
 
-most common ``` .gitignore ``` snippet.
+most common ``` .gitignore ``` snippet
 
 
 ```.txt

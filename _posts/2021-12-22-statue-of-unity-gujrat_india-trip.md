@@ -1,6 +1,6 @@
 ---
 layout: post
-title: StatueOfUnity - Gujrat Bike Trip.
+title: StatueOfUnity - Gujrat Bike Trip
 description: StatueOfUnity - Gujrat Bike Trip.
 summary: StatueOfUnity - Gujrat Bike Trip.
 tags: travel

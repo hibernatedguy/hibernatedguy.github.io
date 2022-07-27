@@ -24,23 +24,5 @@ above list is curated by [@spybugg](https://www.instagram.com/spybugg)  ~ deepak
 
 ![SOU Night ](https://i.imgur.com/EMKRdSx.jpg)
 
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/KxF1C4MNJBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/>
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/4RUygPVHZF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/>
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/Rp2RRVxB7Po" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/>
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/FkQXgxUrgFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/>
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/SoqmEI684SM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/>
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/YxFiovz2X8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/>
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/x3-JoYXNLDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/>
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/u5pEoX11jso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/>
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/J81s1Q6P5R4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/>
 ![SOU Day ](https://i.imgur.com/Dm3lkZS.jpg)
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Workspace Setup
-description: Workspace Setup..
-summary: Workspace Setup..
+description: Workspace Setup.
+summary: Workspace Setup.
 tags: art
 minute: 1
 ---

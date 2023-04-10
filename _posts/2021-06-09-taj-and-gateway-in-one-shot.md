@@ -1,8 +1,8 @@
 ---
 layout: post
-title: GatewayOfIndia and TajHotel in single frame.
-description: GatewayOfIndia and TajHotel in single frame..
-summary: GatewayOfIndia and TajHotel in single frame..
+title: GatewayOfIndia and TajHotel in single frame
+description: GatewayOfIndia and TajHotel in single frame.
+summary: GatewayOfIndia and TajHotel in single frame.
 tags: art
 minute: 1
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Gmail SMTP with PHP using PHPMailer package
-description: Gmail SMTP with PHP using PHPMailer package..
-summary: Gmail SMTP with PHP using PHPMailer package..
+description: Gmail SMTP with PHP using PHPMailer package.
+summary: Gmail SMTP with PHP using PHPMailer package.
 tags: php
 minute: 7
 ---
